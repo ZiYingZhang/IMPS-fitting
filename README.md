@@ -1,3 +1,4 @@
+![0 66V_IMPS_data txt_1](https://user-images.githubusercontent.com/33065087/147638601-d24aa5dc-9cee-43fe-8060-203506bc66b7.jpg)
 # IMPS fiting
 <p> A matlab package is used to fit and plot intensity modulated photocurrent spectroscopy (IMPS) data.<br>
   The datasets contain the photocurrent response as a function of the frequency of a light perturbation. These data can be fitted using a dynamics model firstly proposed by Peter, L. M et al. <em>Journal of Electroanalytical Chemistry, 396(1-2), 219-226</em>.<br>
